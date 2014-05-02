@@ -1,0 +1,16 @@
+body
+{
+	background-image: url(pokemon.jpg);
+	background-size: 100%;
+}
+
+img
+{
+	width: 350px;
+	height: 300px;
+}
+
+.row
+{
+	background-color:rgba(255,255,255,0.5);
+}
