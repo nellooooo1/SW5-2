@@ -9,7 +9,7 @@
       <div class="container">
         <div class="navbar-header">
 
-          <a class="navbar-brand" href="home">Pokemon Hotel</a><!-- this is where you set the navigation title -->
+          <a class="navbar-brand" href="home.html">Pokemon Hotel</a><!-- this is where you set the navigation title -->
         </div>
         <div class="collapse navbar-collapse"><!-- collapse allows for this navbar to be used in mobile devices -->
           <ul class="nav navbar-nav"><!-- this is the list of navigation options in your navbar -->

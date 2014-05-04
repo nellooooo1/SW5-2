@@ -13,7 +13,7 @@ class Room
 		Contact Number: #{@contactnumber} </br>
 		Address: #{@address} </br>
 		Room: #{@rmchoice} </br>
-		Reservation Date: #{@reservedate} </br>
+		Reserve Date: #{@reservedate} </br>
 		"
 	end
 
